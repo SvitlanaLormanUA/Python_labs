@@ -1,0 +1,1 @@
+print("Svitlana Lorman, AI-2024")
