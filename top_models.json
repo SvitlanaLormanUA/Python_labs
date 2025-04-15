@@ -1,0 +1,32 @@
+{
+  "top_7_models_by_launches": [
+    {
+      "model": "Shahed-136/131",
+      "total_launched": 25919
+    },
+    {
+      "model": "X-101/X-555",
+      "total_launched": 1403
+    },
+    {
+      "model": "X-101/X-555 and Kalibr",
+      "total_launched": 588
+    },
+    {
+      "model": "Lancet",
+      "total_launched": 331
+    },
+    {
+      "model": "Kalibr",
+      "total_launched": 321
+    },
+    {
+      "model": "C-300",
+      "total_launched": 298
+    },
+    {
+      "model": "Iskander-M",
+      "total_launched": 287
+    }
+  ]
+}
